@@ -1,0 +1,12 @@
+print ("BMI CALCULATOR")
+Name = input("What is your name?")
+Weight = int(input("What is your weight in KG?"))
+Height = int(input("What is your height in centremetres?"))
+NewHeight = Height / 100
+Age = int(input("How old are you?"))
+print ("You are called" ,Name,"")
+print ("Your weight is ", Weight, "kg")
+print ("Your height is ", Height , "centremetres")
+print ("You are ", Age ," years old")
+NewHeight = Height / 100
+print = (NewHeight)
